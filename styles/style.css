@@ -185,45 +185,6 @@
     margin-right: var(--dl-space-space-oneandhalfunits);
 }
 
-.freePricingCard {
-    gap: var(--dl-space-space-twounits);
-    width: 100%;
-    display: flex;
-    padding: var(--dl-space-space-twounits);
-    max-width: 450px;
-    min-height: 450px;
-    align-items: flex-start;
-    border-radius: 24px;
-    flex-direction: column;
-    background-color: var(--dl-color-custom-accent1);
-}
-
-.basicPricingCard {
-    gap: var(--dl-space-space-twounits);
-    width: 100%;
-    display: flex;
-    padding: var(--dl-space-space-twounits);
-    max-width: 450px;
-    min-height: 450px;
-    align-items: flex-start;
-    border-radius: 24px;
-    flex-direction: column;
-    background-color: var(--dl-color-custom-accent1);
-}
-
-.proPricingCard {
-    gap: var(--dl-space-space-twounits);
-    width: 100%;
-    display: flex;
-    padding: var(--dl-space-space-twounits);
-    max-width: 450px;
-    min-height: 450px;
-    align-items: flex-start;
-    border-radius: 24px;
-    flex-direction: column;
-    background-color: var(--dl-color-custom-accent1);
-}
-
 .faqContainer {
     flex: 0 0 auto;
     color: var(--dl-color-custom-neutral-dark);
